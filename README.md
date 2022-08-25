@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wepa
 - 👀 I’m interested in flutter
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
